@@ -7,6 +7,12 @@ A simple Flutter app that challenges users to react quickly to random events. It
 - **Random Number vs. Current Second:** Compare a random number to the current second and react quickly.
 - **Timed Challenges:** Complete challenges within a set time, adding an extra layer of excitement.
 
+
+## Developers Details
+Name - Abhishek Pandey 
+Email - abhishekabh99@gmail.com 
+Linkedin - https://www.linkedin.com/in/abhishek-pandey-1b7725173/
+
 ## Getting Started
 
 This project is a starting point for a Flutter application.
