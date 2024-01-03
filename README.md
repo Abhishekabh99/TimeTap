@@ -1,6 +1,11 @@
-# kjbmg
+# Flutter Time Challenge App
 
-A new Flutter project.
+A simple Flutter app that challenges users to react quickly to random events. It's a fun way to test your reflexes and time awareness.
+
+## Features
+
+- **Random Number vs. Current Second:** Compare a random number to the current second and react quickly.
+- **Timed Challenges:** Complete challenges within a set time, adding an extra layer of excitement.
 
 ## Getting Started
 
