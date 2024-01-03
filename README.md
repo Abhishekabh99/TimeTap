@@ -1,4 +1,4 @@
-# Flutter Time Challenge App
+# TimeTap App 
 
 A simple Flutter app that challenges users to react quickly to random events. It's a fun way to test your reflexes and time awareness.
 
